@@ -1,0 +1,27 @@
+.main-container{
+  background: black;
+    color: white;
+    padding: 14px 0px 31px 0px;
+    text-align: center;
+}
+.selectany{
+  margin: 17px;
+  padding: 5px; 
+} 
+#label1{
+  padding: 8px;
+}
+#label3{
+  padding:26px;
+}
+#label2{
+  padding:19px;
+}
+.submit{
+  background:#4245f5;
+  color:white;
+  width: 99px;
+  height: 35px;
+  border-radius: 4px;
+  font-weight:bold;
+}
