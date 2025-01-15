@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Heading from "./components/heading";
 import Question from "./components/Question";
+import Score from "./components/Score";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
@@ -12,11 +13,7 @@ function App() {
     <>
       <div className="main-container">
         <Heading></Heading>
-        
         <Question></Question>
-        <div>
-          <button className="submit">SUBMIT</button>
-        </div>
       </div>
     </>
   );
